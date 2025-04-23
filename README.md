@@ -2,7 +2,7 @@
 
 Link: https://alabaster-catnip-nylon.glitch.me
 
-This is a full stack JavaScript app
+This is a full stack JavaScript app (More so a backend feature)
 
 🛠 Features
 Accepts a date parameter (either a Unix timestamp or a date string)
